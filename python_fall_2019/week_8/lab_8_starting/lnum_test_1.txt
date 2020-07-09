@@ -1,0 +1,21 @@
+0001:     Four score and seven years ago our fathers brought forth on this continent, a new
+0002: nation, conceived in Liberty, and dedicated to the proposition that all men are created
+0003: equal.
+0004: 
+0005:     Now we are engaged in a great civil war, testing whether that nation, or any nation so
+0006: conceived and so dedicated, can long endure. We are met on a great battle-field of that
+0007: war. We have come to dedicate a portion of that field, as a final resting place for those
+0008: who here gave their lives that that nation might live. It is altogether fitting and proper
+0009: that we should do this.
+0010: 
+0011:     But, in a larger sense, we can not dedicate — we can not consecrate — we can not
+0012: hallow — this ground. The brave men, living and dead, who struggled here, have consecrated
+0013: it, far above our poor power to add or detract. The world will little note, nor long
+0014: remember what we say here, but it can never forget what they did here. It is for us the
+0015: living, rather, to be dedicated here to the unfinished work which they who fought here
+0016: have thus far so nobly advanced. It is rather for us to be here dedicated to the great
+0017: task remaining before us — that from these honored dead we take increased devotion to that
+0018: cause for which they gave the last full measure of devotion — that we here highly resolve
+0019: that these dead shall not have died in vain — that this nation, under God, shall have a
+0020: new birth of freedom — and that government of the people, by the people, for the people,
+0021: shall not perish from the earth.

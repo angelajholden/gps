@@ -1,0 +1,39 @@
+Based on the Elaboration, there are seven (7) wireframes/screens to create.
+
+Questions:
+- When does the user create a password?
+- Should the Elaboration only be for one user?
+
+I think the Elaboration should only be for one user because it's difficult to create a wireframe narrative for two users. If the purpose of two users is two show entering macros and calories, I'd argue we do that by creating a profile screen and having the user change from calories to macros and generating new suggestions, which we do at the end anyway.
+
+I think entering favorite ingredients should come immediately after entering macros or calories.
+
+Thoughts?
+
+Screen One:
+- login or
+- register
+
+Screen Two:
+- register
+- enter name
+- enter email
+
+Screen Three:
+- message to user to check email and verify account
+
+Screen Four:
+- verification is complete message
+- enter macros; communicate to user they should already have their macro data
+
+Screen Five:
+- ask for favorite ingredients
+
+Screen Six:
+- show meal options
+
+Screen Seven:
+- show user profile
+- change from macros to calories or vise versa
+- update password
+- update email

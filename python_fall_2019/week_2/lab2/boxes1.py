@@ -1,0 +1,45 @@
+# Angela Holden
+# boxes.py
+
+import turtle
+wn = turtle.Screen()
+alex = turtle.Turtle()
+# Style
+alex.pensize(3)
+alex.color('blue')
+# Inner
+alex.up()
+alex.forward(40)
+alex.down()
+alex.left(90)
+alex.forward(40)
+alex.left(90)
+alex.forward(80)
+alex.left(90)
+alex.forward(80)
+alex.left(90)
+alex.forward(80)
+alex.left(90)
+alex.forward(40)
+# Outer
+alex.up()
+alex.right(90)
+alex.forward(10)
+alex.down()
+alex.left(90)
+alex.forward(50)
+alex.left(90)
+alex.forward(100)
+alex.left(90)
+alex.forward(100)
+alex.left(90)
+alex.stamp()
+alex.forward(100)
+alex.left(90)
+alex.forward(50)
+alex.left(90)
+alex.up()
+alex.forward(50)
+alex.right(180)
+# Exit
+wn.exitonclick()

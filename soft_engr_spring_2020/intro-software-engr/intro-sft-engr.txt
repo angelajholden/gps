@@ -1,0 +1,32 @@
+project vision
+- web/browser app
+- users should also be able to add macros
+	- so these things
+		- age
+		- weight
+		- height
+		- targeted weight loss
+		- macros
+			- carbs
+			- fat
+			- protein
+
+project boundaries
+	a. ok - for something like this i'd argue that javascript can handle the backend and the frontend, and make this fully compatible in all browsers. i realize this program doesn't teach javascript, but we all know it should. it can do the heavy lifting as much as anything.
+	b. why only compilable with IE and Chrome?
+	c. why not compatible with firefox?
+	d. vegan label?
+	e. ok
+	f. ok
+	g. explain
+
+requirements
+	a. ok
+	b. target weight or target macros? weight loss is a much longer term goal. the daily goal should be eating within a macro (carbs, fat, protein) goal.
+	c. ok
+	d. yes!
+	e. i think this should be macros
+	f. is there an api we can connect to (in theory)
+
+business case and initial cost estimate
+	a. yes, but i'd argue what the teams needs is to create an algorithm to do the calculations
